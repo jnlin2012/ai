@@ -7,3 +7,4 @@
 
 ## 平台
 - 硅基流动：https://cloud.siliconflow.cn/models
+- 腾讯元宝：https://yuanbao.tencent.com/chat/naQivTmsDa
